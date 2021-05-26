@@ -1,0 +1,32 @@
+Input 1 
+Postfix Form: 4 8 3 * +   
+Result: 3.000000 
+
+Input 2 
+Postfix Form: 4 8 + 3 *   
+Result: 36.000000 
+
+Input 3 
+Postfix Form: 6 9 + 4 2 ^ +   
+Result: 2.000000 
+
+Input 4 
+Postfix Form: 46 8 4 * 2 / +   
+Result: 4.000000 
+
+Input 5 
+Postfix Form: 7 2 ^ 25 10 5 / + * 13 -   
+Result: 10.000000 
+
+Input 6 
+Postfix Form: 18 3 / 2 ^ 13 7 + 5 2 ^ * +   
+Result: 7.000000 
+
+Input 7 
+Postfix Form: Error 
+Result: Error 
+
+Input 8 
+Postfix Form: Error 
+Result: Error 
+
